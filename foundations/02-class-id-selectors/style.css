@@ -1,0 +1,18 @@
+.odd {
+    background-color: salmon;
+    font-family: Vedana, "DejaVu Sans", sans-serif;
+}
+
+#bigBlue {
+    color: blue;
+    font-size: 36px;
+}
+
+.font-size-adjust {
+    font-size: 24px;
+}
+
+#boldGreen {
+    background-color: lightgreen;
+    font-weight: bold;
+}
